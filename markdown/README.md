@@ -1,35 +1,38 @@
-# ![WollMux](images/Wollmux_logo_medium.gif "fig:Wollmux_logo_medium.gif") - das Briefkopf- und Formularsystem der LHM
+# ![WollMux](images/Wollmux_logo_medium.gif "fig:Wollmux_logo_medium.gif") - the letterhead and form system of the LHM.
 
-Der “Eierlegende WollMux” (kurz: WollMux) ist eine Extension für [LibreOffice](http://www.documentfoundation.org), die von der [Landeshauptstadt München](http://www.muenchen.de) im Rahmen des LiMux-Projekts entwickelt wurde. Der WollMux erweitert LibreOffice um zahlreiche Funktionen, welche die Arbeit mit Vorlagen, Formularen und Briefköpfen wesentlich erleichtern. Da der WollMux als OpenSource veröffentlicht wurde und für jeden frei verfügbar ist, kommt er mittlerweile auch in anderen Kommunen und Unternehmen zum Einsatz.
+The "Eierlegende WollMux" (short: WollMux) is an extension for [LibreOffice](http://www.documentfoundation.org), which was developed by the [Landeshauptstadt München]](http://www.muenchen.de) in the context of the LiMux project. The WollMux extends LibreOffice by numerous functions, which facilitate the work with templates, forms and letterheads substantially. Da the WollMux was published as OpenSource and is freely available for everyone, it is now also used in other municipalities and companies.
 
-Mehr darüber, was der WollMux alles kann, erfahren Sie hier: **[Features des WollMux](Features.md)**
+You can learn more about what WollMux can do here: **[Features of WollMux](Features.md)**
 
-> **Info**  <span style="font-size:larger;font-weight:bold;color:#1D9101">WollMux Herunterladen</span>
+> **Info** <span style="font-size:larger;font-weight:bold;color:#1D9101">Download WollMux</span>
 >
-> * **[WollMux](https://github.com/WollMux/WollMux/releases/latest)**
-> * **[WollMux-Konfiguration](https://github.com/WollMux/wollmux-config/releases)**
+> * **[WollMux 18.1.14](https://github.com/WollMux/WollMux/releases/tag/RELEASE_18.1.14)**
+> * **[WollMux configuration 18.1.0](https://github.com/WollMux/wollmux-config/releases/tag/v18.1.0)**
+> * [Other versions](https://github.com/WollMux/WollMux/releases)
 >
-> <span style="font-size:smaller; color:gray;">Um alle WollMux-Features nutzen zu können ist eine WollMux-Konfiguration erforderlich!</span>
+> [Release Notes](https://github.com/WollMux/WollMux/blob/master/doc/ChangeLog)
+>
+> <span style="font-size:smaller; color:gray;">To use all features of WollMux a WollMux configuration is required!</span>
 
-## Dokumentation
+## Documentation
 
-**[Handbuch des WollMux](18.2/Handbuch_des_WollMux.md)** - Anleitungen zur Verwendung und Konfiguration des WollMux
+**[Manual of WollMux](18.1/Handbuch_des_WollMux.md)** - Instructions for using and configuring WollMux.
 
-**[FormularMax-Handbuch](18.2/FormularMax/FormularMax.md)** - Ausführliches Handbuch für die Erstellung von WollMux-Vorlagen mit dem im WollMux enthaltenen “FormularMax 4000”
+**[FormularMax manual](18.1/FormularMax/FormularMax.md)** - Detailed manual for creating WollMux templates with the "FormularMax 4000" included in WollMux
 
-**[WollMux-Seriendruck](18.2/MailMerge/Seriendruck.md)** - Ausführliches Handbuch für den WollMux Seriendruck
+**[WollMux Mail Merge](18.1/MailMerge/Seriendruck.md)** - Detailed manual for WollMux Mail Merge
 
 ## Source Code
 
-Der WollMux ist ein OpenSource-Projekt (lizenziert unter der [European Union Public License](http://joinup.ec.europa.eu/software/page/eupl)). Den aktuellen Quelltext finden Sie in unserem **[Source Code Repository](https://github.com/WollMux/WollMux)**.
+The WollMux is an OpenSource project (licensed under the [European Union Public License](http://joinup.ec.europa.eu/software/page/eupl)). The current source code can be found in our **[Source Code Repository](https://github.com/WollMux/WollMux)**.
 
-Eine Anleitung zum Auschecken des Quelltextes aus dem Code Repository und wie Sie den WollMux selber compilieren können, finden Sie im ReadMe des Repositorys.
+Instructions on how to check out the source code from the code repository and how to compile WollMux yourself can be found in the ReadMe of the repository.
 
-## Fehlermeldungen
+## Error messages
 
-Fehler im WollMux können über den öffentlichen [Issue Tracker](https://github.com/WollMux/WollMux/issues) auf GitHub gemeldet werden.
+Bugs in WollMux can be reported via the public [Issue Tracker](https://github.com/WollMux/WollMux/issues) on GitHub.
 
-## Weitergehende Links
+## Related links
 
-* <https://github.com/WollMux/WollMux> - WollMux-Repository bei GitHub
-* <http://joinup.ec.europa.eu/software/wollmux/description> - WollMux-Projektseite bei Joinup
+* <https://github.com/WollMux/WollMux> - WollMux repository at GitHub
+* <http://joinup.ec.europa.eu/software/wollmux/description> - WollMux project page at Joinup

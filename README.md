@@ -9,6 +9,7 @@ The documentation is written in [Markdown format](https://toolchain.gitbook.com/
 * [Grunt](http://gruntjs.com/getting-started)
 * [GitBook](https://toolchain.gitbook.com/setup.html)
 * [Calibre](https://calibre-ebook.com/download) for PDF and eBook formats.
+* [po4a](https://po4a.org) v0.66 for translated versions
 
 ## Building
 
@@ -24,6 +25,10 @@ The documentation is written in [Markdown format](https://toolchain.gitbook.com/
 
   `npm install`
   `npm install -g grunt-cli`
+
+* Build translations
+
+  `po4a --verbose po4a.conf`
 
 * Build the documentation
 

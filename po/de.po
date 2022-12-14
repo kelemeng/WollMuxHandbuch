@@ -1,0 +1,133 @@
+# German translations for PACKAGE package
+# Copyright (C) 2022 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Automatically generated, 2022.
+# Gabor Kelemen <gabor.kelemen.extern at alltropia.de>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-12-14 10:49+0100\n"
+"PO-Revision-Date: 2022-12-14 00:23+0100\n"
+"Last-Translator: Gabor Kelemen <gabor.kelemen.extern at alltropia.de>\n"
+"Language-Team: de\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.12.3\n"
+
+#. type: Title #
+#: markdown/README.md:1
+#, no-wrap
+msgid "![WollMux](images/Wollmux_logo_medium.gif \"fig:Wollmux_logo_medium.gif\") - the letterhead and form system of the LHM."
+msgstr "![WollMux](images/Wollmux_logo_medium.gif \"fig:Wollmux_logo_medium.gif\") - das Briefkopf- und Formularsystem der LHM"
+
+#. type: Plain text
+#: markdown/README.md:4
+#, no-wrap
+msgid "The \"Eierlegende WollMux\" (short: WollMux) is an extension for [LibreOffice](http://www.documentfoundation.org), which was developed by the [Landeshauptstadt München]](http://www.muenchen.de) in the context of the LiMux project. The WollMux extends LibreOffice by numerous functions, which facilitate the work with templates, forms and letterheads substantially. Da the WollMux was published as OpenSource and is freely available for everyone, it is now also used in other municipalities and companies.\n"
+msgstr "Der “Eierlegende WollMux” (kurz: WollMux) ist eine Extension für [LibreOffice](http://www.documentfoundation.org), die von der [Landeshauptstadt München](http://www.muenchen.de) im Rahmen des LiMux-Projekts entwickelt wurde. Der WollMux erweitert LibreOffice um zahlreiche Funktionen, welche die Arbeit mit Vorlagen, Formularen und Briefköpfen wesentlich erleichtern. Da der WollMux als OpenSource veröffentlicht wurde und für jeden frei verfügbar ist, kommt er mittlerweile auch in anderen Kommunen und Unternehmen zum Einsatz.\n"
+
+#. type: Plain text
+#: markdown/README.md:6
+#, no-wrap
+msgid "You can learn more about what WollMux can do here: **[Features of WollMux](Features.md)**\n"
+msgstr "Mehr darüber, was der WollMux alles kann, erfahren Sie hier: **[Features des WollMux](Features.md)**\n"
+
+#. type: Plain text
+#: markdown/README.md:16
+#, no-wrap
+msgid ""
+"> **Info** <span style=\"font-size:larger;font-weight:bold;color:#1D9101\">Download WollMux</span>\n"
+">\n"
+"> * **[WollMux 18.1.14](https://github.com/WollMux/WollMux/releases/tag/RELEASE_18.1.14)**\n"
+"> * **[WollMux configuration 18.1.0](https://github.com/WollMux/wollmux-config/releases/tag/v18.1.0)**\n"
+"> * [Other versions](https://github.com/WollMux/WollMux/releases)\n"
+">\n"
+"> [Release Notes](https://github.com/WollMux/WollMux/blob/master/doc/ChangeLog)\n"
+">\n"
+"> <span style=\"font-size:smaller; color:gray;\">To use all features of WollMux a WollMux configuration is required!</span>\n"
+msgstr ""
+"> **Info**  <span style=\"font-size:larger;font-weight:bold;color:#1D9101\">WollMux Herunterladen</span>\n"
+">\n"
+"> * **[WollMux 18.1.14](https://github.com/WollMux/WollMux/releases/tag/RELEASE_18.1.14)**\n"
+"> * **[WollMux-Konfiguration 18.1.0](https://github.com/WollMux/wollmux-config/releases/tag/v18.1.0)**\n"
+"> * [Andere Versionen](https://github.com/WollMux/WollMux/releases)\n"
+">\n"
+"> [Release Notes](https://github.com/WollMux/WollMux/blob/master/doc/ChangeLog)\n"
+">\n"
+"> <span style=\"font-size:smaller; color:gray;\">Um alle Features des WollMux nutzen zu können ist eine WollMux-Konfiguration erforderlich!</span>\n"
+
+#. type: Title ##
+#: markdown/README.md:17
+#, no-wrap
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#. type: Plain text
+#: markdown/README.md:20
+#, no-wrap
+msgid "**[Manual of WollMux](18.1/Handbuch_des_WollMux.md)** - Instructions for using and configuring WollMux.\n"
+msgstr "**[Handbuch des WollMux](18.1/Handbuch_des_WollMux.md)** - Anleitungen zur Verwendung und Konfiguration des WollMux\n"
+
+#. type: Plain text
+#: markdown/README.md:22
+#, no-wrap
+msgid "**[FormularMax manual](18.1/FormularMax/FormularMax.md)** - Detailed manual for creating WollMux templates with the \"FormularMax 4000\" included in WollMux\n"
+msgstr "**[FormularMax-Handbuch](18.1/FormularMax/FormularMax.md)** - Ausführliches Handbuch für die Erstellung von WollMux-Vorlagen mit dem im WollMux enthaltenen “FormularMax 4000”\n"
+
+#. type: Plain text
+#: markdown/README.md:24
+#, no-wrap
+msgid "**[WollMux Mail Merge](18.1/MailMerge/Seriendruck.md)** - Detailed manual for WollMux Mail Merge\n"
+msgstr "**[WollMux-Seriendruck](18.1/MailMerge/Seriendruck.md)** - Ausführliches Handbuch für den WollMux Seriendruck\n"
+
+#. type: Title ##
+#: markdown/README.md:25
+#, no-wrap
+msgid "Source Code"
+msgstr "Source Code"
+
+#. type: Plain text
+#: markdown/README.md:28
+#, no-wrap
+msgid "The WollMux is an OpenSource project (licensed under the [European Union Public License](http://joinup.ec.europa.eu/software/page/eupl)). The current source code can be found in our **[Source Code Repository](https://github.com/WollMux/WollMux)**.\n"
+msgstr "Der WollMux ist ein OpenSource-Projekt (lizenziert unter der [European Union Public License](http://joinup.ec.europa.eu/software/page/eupl)). Den aktuellen Quelltext finden Sie in unserem **[Source Code Repository](https://github.com/WollMux/WollMux)**.\n"
+
+#. type: Plain text
+#: markdown/README.md:30
+#, no-wrap
+msgid "Instructions on how to check out the source code from the code repository and how to compile WollMux yourself can be found in the ReadMe of the repository.\n"
+msgstr "Eine Anleitung zum Auschecken des Quelltextes aus dem Code Repository und wie Sie den WollMux selber compilieren können, finden Sie im ReadMe des Repositorys.\n"
+
+#. type: Title ##
+#: markdown/README.md:31
+#, no-wrap
+msgid "Error messages"
+msgstr "Fehlermeldungen"
+
+#. type: Plain text
+#: markdown/README.md:34
+#, no-wrap
+msgid "Bugs in WollMux can be reported via the public [Issue Tracker](https://github.com/WollMux/WollMux/issues) on GitHub.\n"
+msgstr "Fehler im WollMux können über den öffentlichen [Issue Tracker](https://github.com/WollMux/WollMux/issues) auf GitHub gemeldet werden.\n"
+
+#. type: Title ##
+#: markdown/README.md:35
+#, no-wrap
+msgid "Related links"
+msgstr "Weitergehende Links"
+
+#. type: Bullet: '* '
+#: markdown/README.md:38
+#, no-wrap
+msgid "<https://github.com/WollMux/WollMux> - WollMux repository at GitHub\n"
+msgstr "<https://github.com/WollMux/WollMux> - WollMux-Repository bei GitHub\n"
+
+#. type: Bullet: '* '
+#: markdown/README.md:38
+#, no-wrap
+msgid "<http://joinup.ec.europa.eu/software/wollmux/description> - WollMux project page at Joinup\n"
+msgstr "<http://joinup.ec.europa.eu/software/wollmux/description> - WollMux-Projektseite bei Joinup\n"
